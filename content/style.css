@@ -1,0 +1,33 @@
+body {
+background-color: #C9A7EB;
+font-family: Montserrat;
+}
+
+
+
+h3 {
+  font-size: 35px;
+}
+p,li {
+  font-size: 20px;
+}
+/* form {
+  width: 20%;
+} */
+
+.bottomList {
+  padding-bottom: 30px;
+}
+
+.container-fluid {
+  max-width: 100%;
+  padding: 1% 15%;
+
+}
+
+.slabDrawing {
+  height: 250px;
+  padding-left: 40px;
+  text-align: center;
+
+}
